@@ -1,0 +1,41 @@
+[33mcommit 428a473249c23de1a38c5141a886a097db15b1e2[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 03:03:57 2025 -0300
+
+    Primeiro envio
+
+[33mcommit 230a123cf4d6c856dd0dfa7bc5c5103a842dbc47[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 03:36:37 2025 -0300
+
+    Adiciona versão descompactada do app
+
+[33mcommit 2fae26c488ef5b46f8c59373a79863b3254522ef[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 03:52:07 2025 -0300
+
+    Atualização final para deploy
+
+[33mcommit a012a3523b4e84c61081b0f7e833999dcc4418a0[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 04:04:47 2025 -0300
+
+    Corrigido: arquivos agora na raiz e prontos para deploy
+
+[33mcommit 8300446527b129a6ad32cc12717f6ad1bd98babe[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 04:06:46 2025 -0300
+
+    Corrigido: arquivos movidos para a raiz do repositório
+
+[33mcommit 86d9f537bc24fbb686d87bcfbd7dce81a6efa628[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 04:20:16 2025 -0300
+
+    Atualização com localStorage e views separadas
+
+[33mcommit 6817b42b324cbdbfa5ddc20e79b033920df9b2f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Seu Nome <thalisonpatrick@gmail.com>
+Date:   Sat Apr 5 04:29:13 2025 -0300
+
+    Atualização com versão limpa do projeto
